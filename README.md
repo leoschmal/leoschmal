@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [leoschmal](leoschmal)
 
-- 💬 Ask me about **web devlopment, HTML5, CSS3, SASS, GIT, JavaScript, Python, OpenCV, Django, Pandas, Seaborn**
+- 💬 Ask me about **web development, HTML5, CSS3, SASS, GIT, JavaScript, Python, OpenCV, Django, Pandas, Seaborn**
 
 - 📫 How to reach me **leonardoschmal@gmail.com**
 
