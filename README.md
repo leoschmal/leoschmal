@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack WEB Development.**
 
-- 👨‍💻 All of my projects are available at [leoschmal](leoschmal)
+- 👨‍💻 All of my projects are available at [leoschmal](https://leoschmal.com.ar)
 
 - 💬 Ask me about **web development, HTML5, CSS3, SASS, GIT, JavaScript, Python, OpenCV, Django, Pandas, Seaborn**
 
