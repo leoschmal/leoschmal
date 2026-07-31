@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leoschmal" alt="leoschmal" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack WEB Development.**
+
 
 - 👨‍💻 All of my projects are available at [leoschmal](https://leoschmal.com.ar)
 
